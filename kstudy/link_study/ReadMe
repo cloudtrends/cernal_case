@@ -1,0 +1,10 @@
+
+
+http://www.cs.uic.edu/~hnagaraj/articles/linked-list/
+
+
+
+
+
+gcc link-list-test.c -olink-list-test
+
